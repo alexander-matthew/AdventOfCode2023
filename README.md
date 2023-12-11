@@ -14,7 +14,6 @@ However, I am consciously avoiding the direct insertion of complete problem stat
 
 All inputs for the challenges are assumed to be saved locally in text files, such as "day1.txt". Please note that these input files will not be posted on this page.
 
-
 ## Disclaimer
 
 While GPT-4 plays a role in guiding and providing suggestions, the core solutions and approaches are my own. This practice is about growing my skill set and understanding of Python in a practical, hands-on manner.
